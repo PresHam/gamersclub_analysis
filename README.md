@@ -2,7 +2,9 @@
 Repositório para teste  na gamers club.
 
 As respostas práticas estão no notebook dentro pasta: jupyter notebook/analise_csgo.ipynb
+
 Apresentação de slides .ppt e .twb: slides tableau e ppt/Matheus-Teste-GamersClub
+
 
 Ao finalizar a leitura do arquivo com as informações do teste, escolhi usar as seguintes ferramentas:
 - SQLiteStudio
