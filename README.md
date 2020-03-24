@@ -11,9 +11,9 @@ Os passos para criar a apresentação foram:
 
 1 - Executei as Queries de SQL para criar e alimentar as tabelas, através do SQLiteStudio, a partir da ferramenta exportei as tabelas no formato CSV, e fiz a leitura no colaboratory usando JupyterNotebook/Python3/Pandas.
 
-2 - Analisar o conteúdo das três tabelas e suas relações usando a visualização de banco de dados do SQLite e os metódos do Pandas;
+2 - Analisei o conteúdo das três tabelas e suas relações usando a visualização de banco de dados do SQLite e os metódos do Pandas;
 
-3 - Explorar o conteúdo, usando metódos do Pandas para verificar periódo, médias, descrições, etc...
+3 - Explorei o conteúdo, usando metódos do Pandas para verificar periódo, médias, descrições, etc...
 
 4 - Com o conhecimento das tabelas, criei uma função que responde os itens 1 e 2 do exercicio prático, verificando com uma data os jogadores ativos e inativos após a referencia;
 
