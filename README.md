@@ -8,6 +8,7 @@ Ao finalizar a leitura do arquivo com as informações do teste, escolhi usar as
 - Tableau
 
 Os passos para criar a apresentação foram:
+
 1 - Executei as Queries de SQL para criar e alimentar as tabelas, através do SQLiteStudio, a partir da ferramenta exportei as tabelas no formato CSV, e fiz a leitura no colaboratory usando JupyterNotebook/Python3/Pandas.
 
 2 - Analisar o conteúdo das três tabelas e suas relações usando a visualização de banco de dados do SQLite e os metódos do Pandas;
